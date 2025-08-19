@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm yass33-coder 👋
 
-<!--
-**yass33-coder/yass33-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AUTOMATE THE BORING STUFF**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Computer Science Student**  
+🤖 **Exploring Agentic AI**  
+🐍 **Python & AI Frameworks Enthusiast**
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-yasser-sadiki-0273b22a3/)
+
+---
+
+### ⚡ About Me
+
+I love using technology to automate everyday tasks and solve real-world problems. Currently diving deep into Agentic AI and developing my skills in Python and AI frameworks.
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Add your favorite projects here later! -->
+
+---
+
+### 📚 More Coming Soon...
+
+Stay tuned for updates!  
